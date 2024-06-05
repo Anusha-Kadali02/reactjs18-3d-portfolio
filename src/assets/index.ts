@@ -21,12 +21,19 @@ import selenium from "./tech/selenium.png";
 import typescript from "./tech/typescript.png";
 import mysql from "./tech/mysql.png";
 
-import accenture from "./company/accenture.png";
+import chubb from "./company/chubb.png";
+import chubbgif from "./company/chubb.gif"
+import jpmc from "./company/jpmc.png";
+import tcs from "./company/tcs.png";
 import resume from "./resume.pdf"
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import shlipkala from "./shlipkala.png";
+import railwaymgmt from "./railway-mgmt.png";
+import stackoverflow from "./stackoverflow.png";
+
+import ashritha from "./ashritha.png";
+import sneha from "./sneha.png";
+import venu from "./venu.png";
 
 export {
   logo,
@@ -50,9 +57,15 @@ export {
   mysql,
   typescript,
   selenium,
-  accenture,
-  carrent,
+  chubb,
+  tcs,
+  shlipkala,
   resume,
-  jobit,
-  tripguide,
+  railwaymgmt,
+  stackoverflow,
+  jpmc,
+  chubbgif,
+  ashritha,
+  sneha,
+  venu
 };

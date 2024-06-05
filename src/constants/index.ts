@@ -160,7 +160,7 @@ const experiences: TExperience[] = [
     companyName: "Tata Consultancy Services",
     icon: tcs,
     iconBg: "#383E56",
-    date: "May 2022",
+    date: "October 2021",
     points: [
       "Secured a ranking of 917 in the TCS CodeVita, a highly competitive coding contest with participation from over 100,000 individuals.",
       "Subsequently, received a direct interview invitation for their software engineer role based on this achievement."

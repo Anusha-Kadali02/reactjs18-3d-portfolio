@@ -131,7 +131,7 @@ const technologies: TTechnology[] = [
 
 const experiences: TExperience[] = [
   {
-    title: "Full Stack Developer",
+    title: "Technology Intern",
     companyName: "Chubb",
     icon: chubbgif,
     iconBg: "#383E56",
@@ -171,7 +171,7 @@ const experiences: TExperience[] = [
 const testimonials: TTestimonial[] = [
   {
     testimonial:
-      "I've never encountered a web developer as dedicated to client success as Meghana. Her unwavering commitment inspires our team to prioritize our clients' satisfaction above all else.",
+      "I've never encountered a web developer as dedicated to client success as Anusha. Her unwavering commitment inspires our team to prioritize our clients' satisfaction above all else.",
     name: "Venu",
     designation: "Software Engineer",
     company: "Chubb",

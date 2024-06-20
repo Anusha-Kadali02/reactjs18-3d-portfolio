@@ -171,15 +171,7 @@ const experiences: TExperience[] = [
 const testimonials: TTestimonial[] = [
   {
     testimonial:
-      "I've never encountered a web developer as dedicated to client success as Anusha. Her unwavering commitment inspires our team to prioritize our clients' satisfaction above all else.",
-    name: "Venu",
-    designation: "Software Engineer",
-    company: "Chubb",
-    image: venu,
-  },
-  {
-    testimonial:
-      "Anusha demonstrated strong proficiency in Angular and Node.js during her internship with us at Chubb. Her proactive approach, attention to detail, and dedication to delivering results were commendable, making them a valuable asset to our development team.",
+      "Anusha is a highly skilled full stack developer with exceptional coding abilities. She is a dedicated and hardworking individual, consistently delivering high-quality work. Her expertise and strong work ethic make her a valuable asset to any team.",
     name: "Ashritha",
     designation: "Software Engineer",
     company: "Chubb",
@@ -187,7 +179,7 @@ const testimonials: TTestimonial[] = [
   },
   {
     testimonial:
-    "Anusha proved to be a valuable addition to our team during her internship, showcasing proficiency in software development. Her collaborative mindset, attention to detail, and willingness to take on challenges were instrumental in the success of our projects.",
+    "Anusha is one of the most hardworking and dedicated individuals I've ever met. She’s not only knowledgeable but also incredibly attentive and observant. Her exceptional skills and perseverance in achieving her goals make her an invaluable asset to any team.",
     name: "Sneha",
     designation: "Software Engineer",
     company: "Chubb",

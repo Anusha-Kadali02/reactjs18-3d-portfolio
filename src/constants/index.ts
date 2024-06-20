@@ -32,7 +32,6 @@ import {
   chubbgif,
   stackoverflow,
   ashritha,
-  venu,
   sneha,
 } from "../assets";
 
